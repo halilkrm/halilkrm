@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:007AFF&height=220&section=header&text=HALIL%20KEREMOĞLU&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=iOS%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:007AFF&height=230&section=header&text=HALIL%20KEREMOĞLU&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=iOS%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&pause=1000&color=007AFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Halil+%F0%9F%91%8B;I+build+iOS+apps+with+Swift+%F0%9F%93%B1;SwiftUI+%E2%9A%A1+Firebase+%F0%9F%94%A5+React+Native+%E2%9A%9B%EF%B8%8F;Turning+ideas+into+real+apps+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007AFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Halil+%F0%9F%91%8B;Building+iOS+Apps+with+Swift+%F0%9F%93%B1;SwiftUI+%E2%80%A2+Firebase+%E2%80%A2+REST+APIs;Turning+Ideas+Into+Real+Apps+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -20,45 +20,154 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👋 About Me
 
-🎓 I'm a **Computer Engineering student at Çukurova University**.
+🎓 Computer Engineering student at **Çukurova University**
 
-🍎 My main focus is **iOS Development** with **Swift & SwiftUI**.
+🍎 Focused on **iOS Development with Swift & SwiftUI**
 
-🚀 I enjoy turning ideas into real-world mobile applications.
+📱 Building modern and user-friendly mobile applications
 
-🔥 I work with **Firebase, REST APIs and modern mobile architectures**.
+🔥 Working with **Firebase, REST APIs and Firestore**
 
-⚛️ I also have experience with **React Native and Flutter**.
+⚛️ Experience with **React Native & Flutter**
 
-💡 Currently improving my skills and building projects that solve real problems.
+🚀 Always learning, building and improving
 
 ---
 
-# 🍎 My Main Focus
+## 🛠️ Technologies I Use
 
 <div align="center">
 
-### Swift → SwiftUI → iOS Development
+### 📱 Mobile Development
 
-<br>
+<img src="https://skillicons.dev/icons?i=swift,apple,flutter,react" />
 
-<img src="https://skillicons.dev/icons?i=swift,apple,xcode" />
+<br><br>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=swift,c,python,dart,typescript" />
+
+<br><br>
+
+### 🔥 Backend & Database
+
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,sqlite" />
+
+<br><br>
+
+### ⚙️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cmake" />
 
 </div>
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/halilkrm/KitaplikUygulamasi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=halilkrm&repo=KitaplikUygulamasi&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/halilkrm/EventBuddyApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=halilkrm&repo=EventBuddyApp&theme=tokyonight&hide_border=true"/>
+</a>
+
 <br>
 
+<a href="https://github.com/halilkrm/KisilerUygulamasiAF">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=halilkrm&repo=KisilerUygulamasiAF&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/halilkrm/Sismik-Davran-zleme-Platformu">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=halilkrm&repo=Sismik-Davran-zleme-Platformu&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=halilkrm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilkrm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=halilkrm&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=halilkrm&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+<div align="center">
+
 ```text
-        Idea
-         ↓
-      Design
-         ↓
-      SwiftUI
-         ↓
-      Firebase
-         ↓
-     Testing
-         ↓
-    🚀 App Store
+🍎 iOS Development
+⚡ Swift & SwiftUI
+🔥 Firebase
+📱 Mobile Application Architecture
+🚀 Building Real-World Projects
+```
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/halilkrm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=halilkrm&style=for-the-badge&color=007AFF&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Build. Learn. Improve.
+
+*"Turning ideas into apps."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,50:161B22,100:0D1117&height=120&section=footer"/>
+
+</div>
