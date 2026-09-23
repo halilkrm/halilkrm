@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:007AFF&height=230&section=header&text=HALIL%20KEREMOĞLU&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=iOS%20Developer%20%7C%20Swift%20%E2%80%A2%20SwiftUI%20%E2%80%A2%20Firebase&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:007AFF&height=230&section=header&text=Halil%20Keremo%C4%9Flu&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=iOS%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -18,7 +18,8 @@
 
 📱 Contributed to an iOS application published on the **App Store**
 
-🏆 **4th Place** & **Best Application Architecture Award** — TEKNOFEST & Turkcell 5G & AI Smart Road Safety
+🏆 **4th Place Overall** & **Best Application Architecture Award**  
+TEKNOFEST & Turkcell 5G & AI Smart Road Safety
 
 ⚙️ Interested in **mobile application architecture, backend integration and real-world iOS development**
 
@@ -50,7 +51,13 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Core%20Data-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<br><br>
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,python,dart,typescript" />
 
 <br><br>
 
@@ -92,10 +99,8 @@ iOS application developed during my internship at **NDM Software** and published
 
 Developed as part of the **TEKNOFEST & Turkcell 5G & AI Smart Road Safety** competition.
 
-🏅 **4th Place Overall**
-
-🏆 **Best Application Architecture Award**
-
+- 🏅 **4th Place Overall**
+- 🏆 **Best Application Architecture Award**
 - Mobile application development
 - Backend integration
 - Real-time road-safety data flow
@@ -114,8 +119,8 @@ Developed as part of the **TEKNOFEST & Turkcell 5G & AI Smart Road Safety** comp
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://lnkd.in/dvNZSQWZ">
-<img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<a href="mailto:halil128kerem123@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
